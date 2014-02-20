@@ -37,3 +37,6 @@ nosetests.xml
 
 # PyBuilder
 **/target
+
+# Virtualenv
+**/venv
